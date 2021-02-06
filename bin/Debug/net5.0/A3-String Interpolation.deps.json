@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "A3-String Interpolation/1.0.0": {
+        "dependencies": {
+          "NLog.Web": "4.10.0"
+        },
+        "runtime": {
+          "A3-String Interpolation.dll": {}
+        }
+      },
+      "NLog.Web/4.10.0": {
+        "runtime": {
+          "lib/net35/NLog.Web.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.10.0.1841"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A3-String Interpolation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NLog.Web/4.10.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JUwJdJL/QrkjfbTLW0Qen/eyJdM34KXLnkLaiECkFQTOlmGaRZrPayNW9iGG5hfMIIfkQYZmilo1tM4cx7CIgw==",
+      "path": "nlog.web/4.10.0",
+      "hashPath": "nlog.web.4.10.0.nupkg.sha512"
+    }
+  }
+}

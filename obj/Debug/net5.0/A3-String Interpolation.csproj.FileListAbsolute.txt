@@ -1,0 +1,18 @@
+C:\Users\epeppin\Documents\.Net Programing Class\A3-String Interpolation\obj\Debug\net5.0\A3-String Interpolation.csprojAssemblyReference.cache
+C:\Users\epeppin\Documents\.Net Programing Class\A3-String Interpolation\obj\Debug\net5.0\A3-String Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\epeppin\Documents\.Net Programing Class\A3-String Interpolation\obj\Debug\net5.0\A3-String Interpolation.AssemblyInfoInputs.cache
+C:\Users\epeppin\Documents\.Net Programing Class\A3-String Interpolation\obj\Debug\net5.0\A3-String Interpolation.AssemblyInfo.cs
+C:\Users\epeppin\Documents\.Net Programing Class\A3-String Interpolation\obj\Debug\net5.0\A3-String Interpolation.csproj.CoreCompileInputs.cache
+C:\Users\epeppin\Documents\.Net Programing Class\A3-String Interpolation\bin\Debug\net5.0\A3-String Interpolation.exe
+C:\Users\epeppin\Documents\.Net Programing Class\A3-String Interpolation\bin\Debug\net5.0\A3-String Interpolation.deps.json
+C:\Users\epeppin\Documents\.Net Programing Class\A3-String Interpolation\bin\Debug\net5.0\A3-String Interpolation.runtimeconfig.json
+C:\Users\epeppin\Documents\.Net Programing Class\A3-String Interpolation\bin\Debug\net5.0\A3-String Interpolation.runtimeconfig.dev.json
+C:\Users\epeppin\Documents\.Net Programing Class\A3-String Interpolation\bin\Debug\net5.0\A3-String Interpolation.dll
+C:\Users\epeppin\Documents\.Net Programing Class\A3-String Interpolation\bin\Debug\net5.0\ref\A3-String Interpolation.dll
+C:\Users\epeppin\Documents\.Net Programing Class\A3-String Interpolation\bin\Debug\net5.0\A3-String Interpolation.pdb
+C:\Users\epeppin\Documents\.Net Programing Class\A3-String Interpolation\bin\Debug\net5.0\NLog.Web.dll
+C:\Users\epeppin\Documents\.Net Programing Class\A3-String Interpolation\obj\Debug\net5.0\A3-String Interpolation.csproj.CopyComplete
+C:\Users\epeppin\Documents\.Net Programing Class\A3-String Interpolation\obj\Debug\net5.0\A3-String Interpolation.dll
+C:\Users\epeppin\Documents\.Net Programing Class\A3-String Interpolation\obj\Debug\net5.0\ref\A3-String Interpolation.dll
+C:\Users\epeppin\Documents\.Net Programing Class\A3-String Interpolation\obj\Debug\net5.0\A3-String Interpolation.pdb
+C:\Users\epeppin\Documents\.Net Programing Class\A3-String Interpolation\obj\Debug\net5.0\A3-String Interpolation.genruntimeconfig.cache

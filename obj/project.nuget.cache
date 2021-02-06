@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "rfwLD49bwSm3bmbtKCCa7UwokZVTx+/a/O9FNf4ehwPWHd/3k+L169zcyhTne5ZObCqQh3PXhfBXwAAsbGrwOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\epeppin\\Documents\\.Net Programing Class\\A3-String Interpolation\\A3-String Interpolation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\epeppin\\.nuget\\packages\\nlog.web\\4.10.0\\nlog.web.4.10.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NLog.Web 4.10.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "NLog.Web",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
